@@ -5,3 +5,6 @@
 *.pdf
 *.log
 *.synctex.gz
+*.DS_Store
+*.log.log
+*.lb
