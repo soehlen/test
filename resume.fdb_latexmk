@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex resume"] 1622236452 "resume.aux" "resume.bbl" "resume" 1622236452
+["bibtex resume"] 1622236952 "resume.aux" "resume.bbl" "resume" 1622236952
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "publications.bib" 0 -1 0 ""
   "resume.aux" 1622236424 1374 c11337fe8eb1fb2ff858d5cd5b506112 "pdflatex"
   (generated)
   "resume.blg"
   "resume.bbl"
-["pdflatex"] 1622236423 "resume.tex" "resume.pdf" "resume" 1622236452
+["pdflatex"] 1622236423 "resume.tex" "resume.pdf" "resume" 1622236952
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1529098226 3124 3813fd4c981d99822890a2861b0d274c ""
@@ -129,7 +129,7 @@
   "resume.out" 1622236424 889 b08b56c7cf33a149c58d2a4a0fde2c20 "pdflatex"
   "resume.tex" 1622236422 9567 e98139a14d5f9fe39f7ece4f54e79783 ""
   (generated)
-  "resume.out"
   "resume.aux"
   "resume.log"
+  "resume.out"
   "resume.pdf"
